@@ -1,0 +1,119 @@
+img{
+	max-width: 100%;
+}
+.img{
+	width: 200px;
+}
+.navbar{
+	height: 75px;
+}
+.navbar-brand{
+	font-weight: 600;
+}
+.nav-item{
+	    font-weight: 600;
+}
+
+header{
+	background-color: #1ABC9C;
+}
+header h1{
+	color: #fff;
+	font-size: 65px;
+    font-weight: 700;
+}
+header span{
+	width: 30%;
+    height: 5px;
+    display: inline-block;
+}
+header p{
+	color: #fff;
+	font-size: 25px;
+	font-weight: 500;
+}
+
+.photo h2{
+	text-transform: uppercase;
+    font-size: 45px;
+    font-weight: 700;
+    color: #343A40;
+}
+.photo span{
+	width: 100%;
+    height: 5px;
+    display: inline-block;
+}
+.img-1{
+	border-radius: 20px;
+}
+
+.about{
+	background-color: #1ABC9C;
+}
+.about h1{
+	color: #fff;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 5px;
+}
+.about span{
+	width: 100%;
+    height: 5px;
+    display: inline-block;
+}
+.about p{
+	font-size: 25px;
+    font-weight: 500;
+    color: #fff;
+}
+.btn{
+	font-size: 40px;
+	font-weight: 700;
+}
+
+.contact h1{
+	text-transform: uppercase;
+	font-size: 45px;
+    font-weight: 700;
+}
+.contact span{
+	width: 100%;
+    height: 5px;
+    display: inline-block;
+}.btn-2{
+	font-size: 30px;
+	font-weight: 700;
+	background-color: #1ABC9C;
+}
+
+.location{
+	background-color: #2C3E50;
+}
+.location h1{
+	color: #fff;
+	font-size: 35px;
+}
+.location p{
+	color: #fff;
+	font-size: 20px;
+}
+.location a{
+	background-color: #2C3E50;
+	font-size: 20px;
+    font-weight: 700;
+}
+
+.end{
+	background-color: #343A40;
+}
+.end p{
+	color: #fff;
+	font-size: 20px;
+}
+.end .row{
+	justify-content: center;
+}
+
+
